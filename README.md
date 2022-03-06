@@ -25,8 +25,8 @@ https://imgur.com/a/fArtqmP
 
 ### Links
 
-- Solution URL: [https://nas22663.github.io/FrontEndMentorQRChallenge/]
-- Live Site URL: [https://nas22663.github.io/FrontEndMentorQRChallenge/]
+- Solution URL: [Site](./index.html)
+- Live Site URL: [livesite](https://nas22663.github.io/FrontEndMentorQRChallenge/)
 
 ## My process
 
